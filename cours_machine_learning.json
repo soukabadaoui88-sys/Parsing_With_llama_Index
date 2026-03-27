@@ -1,0 +1,2546 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "Cours Complet : Introduction au Machine\n\nLearning\n\nNiveau : Débutant | Objectif : Comprendre les fondations, les types et l'utilité de l'IA\nmoderne.\n\n1. Qu'est-ce que le Machine Learning ?\n\nLe Machine Learning (ML), ou Apprentissage Automatique en français, est une branche\nde l'intelligence artificielle qui permet aux ordinateurs d'apprendre sans être\nexplicitement programmés pour chaque tâche.\n\nL'approche traditionnelle vs Machine Learning\n\n •   Programmation Classique : Un humain écrit des règles strictes (si ceci, alors\n     cela ). Si les données changent, le programmeur doit réécrire le code.\n\n •   Machine Learning : On donne des données et les réponses souhaitées à\n     l'ordinateur. Il crée lui-même l'algorithme (le \"modèle\") en détectant des motifs\n     statistiques.\n\n    Définition clé : C'est l'art d'utiliser des algorithmes pour extraire des\n    connaissances à partir de données afin de prédire des résultats futurs.\n\n2. Pourquoi utilise-t-on le Machine Learning ?\n\nLe monde produit aujourd'hui trop de données pour qu'un humain puisse les analyser\nmanuellement. Le ML intervient pour :\n\n 1. Traiter la complexité : Reconnaître un visage ou traduire une langue implique\n     des millions de variables. Impossible à coder à la main.\n\n 2. L'adaptation : Les systèmes de ML s'adaptent aux nouvelles données (ex: un filtre\n     anti-spam qui apprend de nouveaux types d'arnaques).\n\n 3. La découverte de motifs cachés : Trouver des corrélations que l'œil humain ne\n     voit pas (ex: détecter des micro-signaux de fraude bancaire).\n\n\n\n\n1",
+      "md": "# Cours Complet : Introduction au Machine Learning\n\n**Niveau :** Débutant | **Objectif :** Comprendre les fondations, les types et l'utilité de l'IA moderne.\n\n## 1. Qu'est-ce que le Machine Learning ?\n\nLe **Machine Learning (ML)**, ou Apprentissage Automatique en français, est une branche de l'intelligence artificielle qui permet aux ordinateurs d'apprendre sans être explicitement programmés pour chaque tâche.\n\n### L'approche traditionnelle vs Machine Learning\n\n* **Programmation Classique :** Un humain écrit des règles strictes (si ceci, alors cela ). Si les données changent, le programmeur doit réécrire le code.\n\n* **Machine Learning :** On donne des données et les réponses souhaitées à l'ordinateur. Il crée lui-même l'algorithme (le \"modèle\") en détectant des motifs statistiques.\n\n**Définition clé :** C'est l'art d'utiliser des algorithmes pour extraire des connaissances à partir de données afin de prédire des résultats futurs.\n\n## 2. Pourquoi utilise-t-on le Machine Learning ?\n\nLe monde produit aujourd'hui trop de données pour qu'un humain puisse les analyser manuellement. Le ML intervient pour :\n\n1. **Traiter la complexité :** Reconnaître un visage ou traduire une langue implique des millions de variables. Impossible à coder à la main.\n\n2. **L'adaptation :** Les systèmes de ML s'adaptent aux nouvelles données (ex: un filtre anti-spam qui apprend de nouveaux types d'arnaques).\n\n3. **La découverte de motifs cachés :** Trouver des corrélations que l'œil humain ne voit pas (ex: détecter des micro-signaux de fraude bancaire).\n\n1\n",
+      "images": [
+        {
+          "name": "page_1.jpg",
+          "height": 792,
+          "width": 612,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "md": "# Cours Complet : Introduction au Machine Learning",
+          "value": "Cours Complet : Introduction au Machine Learning",
+          "lvl": 1,
+          "bBox": {
+            "x": 56.9390708067359,
+            "y": 57.77120075504955,
+            "w": 497.6389548697122,
+            "h": 63.305346501048014,
+            "confidence": 0.9,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.9390708067359,
+              "y": 57.77120075504955,
+              "w": 497.6389548697122,
+              "h": 63.305346501048014,
+              "startIndex": 0,
+              "endIndex": 49,
+              "confidence": 0.9,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "**Niveau :** Débutant | **Objectif :** Comprendre les fondations, les types et l'utilité de l'IA moderne.",
+          "value": "**Niveau :** Débutant | **Objectif :** Comprendre les fondations, les types et l'utilité de l'IA moderne.",
+          "bBox": {
+            "x": 56.55537276105183,
+            "y": 138.45877691501525,
+            "w": 477.661670636433,
+            "h": 30.867796303353654,
+            "confidence": 0.96,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.55537276105183,
+              "y": 138.45877691501525,
+              "w": 477.661670636433,
+              "h": 30.867796303353654,
+              "startIndex": 0,
+              "endIndex": 104,
+              "confidence": 0.96,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## 1. Qu'est-ce que le Machine Learning ?",
+          "value": "1. Qu'est-ce que le Machine Learning ?",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.975618033060215,
+            "y": 183.2032917301829,
+            "w": 341.9657596346227,
+            "h": 18.54330554496953,
+            "confidence": 0.85,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.975618033060215,
+              "y": 183.2032917301829,
+              "w": 341.9657596346227,
+              "h": 18.54330554496953,
+              "startIndex": 0,
+              "endIndex": 40,
+              "confidence": 0.85,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Le **Machine Learning (ML)**, ou Apprentissage Automatique en français, est une branche de l'intelligence artificielle qui permet aux ordinateurs d'apprendre sans être explicitement programmés pour chaque tâche.",
+          "value": "Le **Machine Learning (ML)**, ou Apprentissage Automatique en français, est une branche de l'intelligence artificielle qui permet aux ordinateurs d'apprendre sans être explicitement programmés pour chaque tâche.",
+          "bBox": {
+            "x": 56.30256234517911,
+            "y": 217.7300604992378,
+            "w": 497.5800319764672,
+            "h": 49.815953934832336,
+            "confidence": 0.98,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.30256234517911,
+              "y": 217.7300604992378,
+              "w": 497.5800319764672,
+              "h": 49.815953934832336,
+              "startIndex": 0,
+              "endIndex": 210,
+              "confidence": 0.98,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "### L'approche traditionnelle vs Machine Learning",
+          "value": "L'approche traditionnelle vs Machine Learning",
+          "lvl": 3,
+          "bBox": {
+            "x": 56.85250631192835,
+            "y": 280.56452386623477,
+            "w": 322.99750774104416,
+            "h": 14.555433498475614,
+            "confidence": 0.94,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.85250631192835,
+              "y": 280.56452386623477,
+              "w": 322.99750774104416,
+              "h": 14.555433498475614,
+              "startIndex": 0,
+              "endIndex": 48,
+              "confidence": 0.94,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "* **Programmation Classique :** Un humain écrit des règles strictes (si ceci, alors cela ). Si les données changent, le programmeur doit réécrire le code.",
+          "value": "* **Programmation Classique :** Un humain écrit des règles strictes (si ceci, alors cela ). Si les données changent, le programmeur doit réécrire le code.",
+          "bBox": {
+            "x": 77.46918707126525,
+            "y": 309.2608236471037,
+            "w": 448.53208722370425,
+            "h": 31.40505240091462,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.46918707126525,
+              "y": 309.2608236471037,
+              "w": 448.53208722370425,
+              "h": 31.40505240091462,
+              "startIndex": 0,
+              "endIndex": 153,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "* **Machine Learning :** On donne des données et les réponses souhaitées à l'ordinateur. Il crée lui-même l'algorithme (le \"modèle\") en détectant des motifs statistiques.",
+          "value": "* **Machine Learning :** On donne des données et les réponses souhaitées à l'ordinateur. Il crée lui-même l'algorithme (le \"modèle\") en détectant des motifs statistiques.",
+          "bBox": {
+            "x": 77.56047541920732,
+            "y": 353.24307807736284,
+            "w": 456.53328315548777,
+            "h": 50.059256621570086,
+            "confidence": 0.98,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.56047541920732,
+              "y": 353.24307807736284,
+              "w": 456.53328315548777,
+              "h": 50.059256621570086,
+              "startIndex": 0,
+              "endIndex": 169,
+              "confidence": 0.98,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "**Définition clé :** C'est l'art d'utiliser des algorithmes pour extraire des connaissances à partir de données afin de prédire des résultats futurs.",
+          "value": "**Définition clé :** C'est l'art d'utiliser des algorithmes pour extraire des connaissances à partir de données afin de prédire des résultats futurs.",
+          "bBox": {
+            "x": 84.77298375571647,
+            "y": 416.3446603467988,
+            "w": 396.21431592987807,
+            "h": 31.213013528963447,
+            "confidence": 0.93,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 84.77298375571647,
+              "y": 416.3446603467988,
+              "w": 396.21431592987807,
+              "h": 31.213013528963447,
+              "startIndex": 0,
+              "endIndex": 148,
+              "confidence": 0.93,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## 2. Pourquoi utilise-t-on le Machine Learning ?",
+          "value": "2. Pourquoi utilise-t-on le Machine Learning ?",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.22814685356326,
+            "y": 468.31272770579267,
+            "w": 406.0376436856898,
+            "h": 18.209595560213447,
+            "confidence": 0.87,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.22814685356326,
+              "y": 468.31272770579267,
+              "w": 406.0376436856898,
+              "h": 18.209595560213447,
+              "startIndex": 0,
+              "endIndex": 48,
+              "confidence": 0.87,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Le monde produit aujourd'hui trop de données pour qu'un humain puisse les analyser manuellement. Le ML intervient pour :",
+          "value": "Le monde produit aujourd'hui trop de données pour qu'un humain puisse les analyser manuellement. Le ML intervient pour :",
+          "bBox": {
+            "x": 56.42813848728086,
+            "y": 502.48729944740853,
+            "w": 484.8172695252954,
+            "h": 31.503429878048827,
+            "confidence": 0.95,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.42813848728086,
+              "y": 502.48729944740853,
+              "w": 484.8172695252954,
+              "h": 31.503429878048827,
+              "startIndex": 0,
+              "endIndex": 119,
+              "confidence": 0.95,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "1. **Traiter la complexité :** Reconnaître un visage ou traduire une langue implique des millions de variables. Impossible à coder à la main.",
+          "value": "1. **Traiter la complexité :** Reconnaître un visage ou traduire une langue implique des millions de variables. Impossible à coder à la main.",
+          "bBox": {
+            "x": 77.7436260837462,
+            "y": 546.7300938452744,
+            "w": 457.1525224490282,
+            "h": 31.408730945121874,
+            "confidence": 0.96,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.7436260837462,
+              "y": 546.7300938452744,
+              "w": 457.1525224490282,
+              "h": 31.408730945121874,
+              "startIndex": 0,
+              "endIndex": 140,
+              "confidence": 0.96,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "2. **L'adaptation :** Les systèmes de ML s'adaptent aux nouvelles données (ex: un filtre anti-spam qui apprend de nouveaux types d'arnaques).",
+          "value": "2. **L'adaptation :** Les systèmes de ML s'adaptent aux nouvelles données (ex: un filtre anti-spam qui apprend de nouveaux types d'arnaques).",
+          "bBox": {
+            "x": 77.41924268769056,
+            "y": 590.9810470655488,
+            "w": 475.2069615806021,
+            "h": 31.685329173018303,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.41924268769056,
+              "y": 590.9810470655488,
+              "w": 475.2069615806021,
+              "h": 31.685329173018303,
+              "startIndex": 0,
+              "endIndex": 140,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "3. **La découverte de motifs cachés :** Trouver des corrélations que l'œil humain ne voit pas (ex: détecter des micro-signaux de fraude bancaire).",
+          "value": "3. **La découverte de motifs cachés :** Trouver des corrélations que l'œil humain ne voit pas (ex: détecter des micro-signaux de fraude bancaire).",
+          "bBox": {
+            "x": 77.7158113805259,
+            "y": 634.9680883193598,
+            "w": 462.76124392625763,
+            "h": 31.37359613185971,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.7158113805259,
+              "y": 634.9680883193598,
+              "w": 462.76124392625763,
+              "h": 31.37359613185971,
+              "startIndex": 0,
+              "endIndex": 145,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "1",
+          "value": "1",
+          "bBox": {
+            "x": 302.6830624761814,
+            "y": 720.9892883003049,
+            "w": 6.029677377096022,
+            "h": 11.63481088033538,
+            "confidence": 0.83,
+            "label": "footer"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 302.6830624761814,
+              "y": 720.9892883003049,
+              "w": 6.029677377096022,
+              "h": 11.63481088033538,
+              "startIndex": 0,
+              "endIndex": 0,
+              "confidence": 0.83,
+              "label": "footer"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "1",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.992,
+      "layout": [
+        {
+          "image": "page_1_text_1_v2.jpg",
+          "confidence": 0.96,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.446,
+            "w": 0.746,
+            "h": 0.063
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_2_v2.jpg",
+          "confidence": 0.95,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.275,
+            "w": 0.813,
+            "h": 0.063
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_3_v2.jpg",
+          "confidence": 0.95,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.39,
+            "w": 0.733,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_4_v2.jpg",
+          "confidence": 0.94,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.746,
+            "w": 0.776,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_5_v2.jpg",
+          "confidence": 0.93,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.802,
+            "w": 0.756,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_6_v2.jpg",
+          "confidence": 0.93,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.69,
+            "w": 0.747,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_7_v2.jpg",
+          "confidence": 0.92,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.175,
+            "w": 0.78,
+            "h": 0.039
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_8_v2.jpg",
+          "confidence": 0.9,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.634,
+            "w": 0.792,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_1_v2.jpg",
+          "confidence": 0.88,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.354,
+            "w": 0.528,
+            "h": 0.018
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_text_9_v2.jpg",
+          "confidence": 0.85,
+          "label": "text",
+          "bbox": {
+            "x": 0.139,
+            "y": 0.526,
+            "w": 0.647,
+            "h": 0.039
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_2_v2.jpg",
+          "confidence": 0.85,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.174,
+            "w": 0.08,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_3_v2.jpg",
+          "confidence": 0.79,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.073,
+            "w": 0.813,
+            "h": 0.08
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_4_v2.jpg",
+          "confidence": 0.74,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.591,
+            "w": 0.663,
+            "h": 0.023
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_5_v2.jpg",
+          "confidence": 0.74,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.139,
+            "y": 0.526,
+            "w": 0.14,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_6_v2.jpg",
+          "confidence": 0.7,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.231,
+            "w": 0.559,
+            "h": 0.023
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_footer_1_v2.jpg",
+          "confidence": 0.66,
+          "label": "footer",
+          "bbox": {
+            "x": 0.495,
+            "y": 0.91,
+            "w": 0.01,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_7_v2.jpg",
+          "confidence": 0.62,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.275,
+            "w": 0.253,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        }
+      ],
+      "costOptimized": false
+    },
+    {
+      "page": 2,
+      "text": "3. Les Trois Grands Types de Machine Learning\n\nOn classe généralement le ML en trois catégories principales, selon la manière dont\nl'algorithme reçoit ses \"leçons\".\n\nA. L'Apprentissage Supervisé (Supervised Learning)\n\nC'est le type le plus courant. Le modèle apprend à partir de données étiquetées. On lui\ndonne l'entrée et la solution.\n\n •   Analogie : Un étudiant qui révise avec le corrigé des exercices.\n\n •   Sous-types :\n\n         •   Régression : Prédire une valeur numérique (ex: le prix d'une maison).\n\n         •   Classification : Prédire une catégorie (ex: \"Chat\" ou \"Chien\").\n\nB. L'Apprentissage Non-Supervisé (Unsupervised Learning)\n\nIci, les données n'ont pas d'étiquettes. Le modèle doit trouver seul une structure ou des\npoints communs.\n\n •   Analogie : Trier un bac de Lego de couleurs différentes sans instructions.\n\n •   Utilisation : Segmentation client (regrouper les acheteurs par comportement).\n\nC. L'Apprentissage par Renforcement (Reinforcement Learning)\n\nL'algorithme (l'agent) apprend en interagissant avec un environnement. Il reçoit des\nrécompenses ou des pénalités.\n\n •   Analogie : Dresser un chien avec des friandises.\n\n •   Utilisation : Robotique, jeux vidéo (AlphaGo), voitures autonomes.\n\n4. Le Cycle de Vie d'un Projet ML\n\nPour passer d'une idée à un modèle qui fonctionne, on suit généralement ces étapes :\n\nÉtape            Action\n1. Collecte      Récupérer des données (bases de données, capteurs, web).\n\n2. Nettoyage     Supprimer les erreurs, les doublons et gérer les données\n\n\n2",
+      "md": "\n\n# 3. Les Trois Grands Types de Machine Learning\n\nOn classe généralement le ML en trois catégories principales, selon la manière dont l'algorithme reçoit ses \"leçons\".\n\n## A. L'Apprentissage Supervisé (Supervised Learning)\n\nC'est le type le plus courant. Le modèle apprend à partir de données **étiquetées**. On lui donne l'entrée et la solution.\n\n*   **Analogie** : Un étudiant qui révise avec le corrigé des exercices.\n\n*   **Sous-types** :\n\n*   **Régression** : Prédire une valeur numérique (ex: le prix d'une maison).\n\n*   **Classification** : Prédire une catégorie (ex: \"Chat\" ou \"Chien\").\n\n## B. L'Apprentissage Non-Supervisé (Unsupervised Learning)\n\nIci, les données n'ont **pas d'étiquettes**. Le modèle doit trouver seul une structure ou des points communs.\n\n*   **Analogie** : Trier un bac de Lego de couleurs différentes sans instructions.\n\n*   **Utilisation** : Segmentation client (regrouper les acheteurs par comportement).\n\n## C. L'Apprentissage par Renforcement (Reinforcement Learning)\n\nL'algorithme (l'agent) apprend en interagissant avec un environnement. Il reçoit des **récompenses** ou des **pénalités**.\n\n*   **Analogie** : Dresser un chien avec des friandises.\n\n*   **Utilisation** : Robotique, jeux vidéo (AlphaGo), voitures autonomes.\n\n# 4. Le Cycle de Vie d'un Projet ML\n\nPour passer d'une idée à un modèle qui fonctionne, on suit généralement ces étapes :\n\n| Étape                | Action                                                   |\n| -------------------- | -------------------------------------------------------- |\n| \\*\\*1. Collecte\\*\\*  | Récupérer des données (bases de données, capteurs, web). |\n| \\*\\*2. Nettoyage\\*\\* | Supprimer les erreurs, les doublons et gérer les données |\n\n\n2\n",
+      "images": [
+        {
+          "name": "page_2.jpg",
+          "height": 792,
+          "width": 612,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        },
+        {
+          "name": "page_2_table_1_v2.jpg",
+          "height": 77.977,
+          "width": 500.161,
+          "x": 55.615,
+          "y": 619.033,
+          "original_width": 2022,
+          "original_height": 316,
+          "rotation": 0,
+          "type": "layout_v3_table"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "md": "# 3. Les Trois Grands Types de Machine Learning",
+          "value": "3. Les Trois Grands Types de Machine Learning",
+          "lvl": 1,
+          "bBox": {
+            "x": 56.295779493378426,
+            "y": 60.727412109375,
+            "w": 414.863464027963,
+            "h": 19.661111375762193,
+            "confidence": 0.95,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.295779493378426,
+              "y": 60.727412109375,
+              "w": 414.863464027963,
+              "h": 19.661111375762193,
+              "startIndex": 0,
+              "endIndex": 46,
+              "confidence": 0.95,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "On classe généralement le ML en trois catégories principales, selon la manière dont l'algorithme reçoit ses \"leçons\".",
+          "value": "On classe généralement le ML en trois catégories principales, selon la manière dont l'algorithme reçoit ses \"leçons\".",
+          "bBox": {
+            "x": 56.330522818216465,
+            "y": 94.47729474323552,
+            "w": 470.58826314786586,
+            "h": 31.25160876762577,
+            "confidence": 0.98,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.330522818216465,
+              "y": 94.47729474323552,
+              "w": 470.58826314786586,
+              "h": 31.25160876762577,
+              "startIndex": 0,
+              "endIndex": 116,
+              "confidence": 0.98,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## A. L'Apprentissage Supervisé (Supervised Learning)",
+          "value": "A. L'Apprentissage Supervisé (Supervised Learning)",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.09600651438643,
+            "y": 138.95422494283537,
+            "w": 355.4559180282965,
+            "h": 15.118050328696652,
+            "confidence": 0.94,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.09600651438643,
+              "y": 138.95422494283537,
+              "w": 355.4559180282965,
+              "h": 15.118050328696652,
+              "startIndex": 0,
+              "endIndex": 52,
+              "confidence": 0.94,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "C'est le type le plus courant. Le modèle apprend à partir de données **étiquetées**. On lui donne l'entrée et la solution.",
+          "value": "C'est le type le plus courant. Le modèle apprend à partir de données **étiquetées**. On lui donne l'entrée et la solution.",
+          "bBox": {
+            "x": 56.30964129192073,
+            "y": 167.3884991901677,
+            "w": 489.9896791634909,
+            "h": 28.671257383765234,
+            "confidence": 0.98,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.30964129192073,
+              "y": 167.3884991901677,
+              "w": 489.9896791634909,
+              "h": 28.671257383765234,
+              "startIndex": 0,
+              "endIndex": 121,
+              "confidence": 0.98,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Analogie** : Un étudiant qui révise avec le corrigé des exercices.",
+          "value": "*   **Analogie** : Un étudiant qui révise avec le corrigé des exercices.",
+          "bBox": {
+            "x": 77.30976044445504,
+            "y": 211.29258455602135,
+            "w": 365.915102836795,
+            "h": 13.168457269435994,
+            "confidence": 0.94,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.30976044445504,
+              "y": 211.29258455602135,
+              "w": 365.915102836795,
+              "h": 13.168457269435994,
+              "startIndex": 0,
+              "endIndex": 71,
+              "confidence": 0.94,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Sous-types** :",
+          "value": "*   **Sous-types** :",
+          "bBox": {
+            "x": 77.34980159108231,
+            "y": 236.2111609184451,
+            "w": 85.98318299828506,
+            "h": 13.274238995807952,
+            "confidence": 0.88,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.34980159108231,
+              "y": 236.2111609184451,
+              "w": 85.98318299828506,
+              "h": 13.274238995807952,
+              "startIndex": 0,
+              "endIndex": 19,
+              "confidence": 0.88,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Régression** : Prédire une valeur numérique (ex: le prix d'une maison).",
+          "value": "*   **Régression** : Prédire une valeur numérique (ex: le prix d'une maison).",
+          "bBox": {
+            "x": 113.14777105564025,
+            "y": 262.4069231135671,
+            "w": 405.23334960937495,
+            "h": 13.026880478277455,
+            "confidence": 0.93,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 113.14777105564025,
+              "y": 262.4069231135671,
+              "w": 405.23334960937495,
+              "h": 13.026880478277455,
+              "startIndex": 0,
+              "endIndex": 76,
+              "confidence": 0.93,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Classification** : Prédire une catégorie (ex: \"Chat\" ou \"Chien\").",
+          "value": "*   **Classification** : Prédire une catégorie (ex: \"Chat\" ou \"Chien\").",
+          "bBox": {
+            "x": 113.05547142959223,
+            "y": 287.4483534203506,
+            "w": 357.32146192597185,
+            "h": 12.749904963795759,
+            "confidence": 0.92,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 113.05547142959223,
+              "y": 287.4483534203506,
+              "w": 357.32146192597185,
+              "h": 12.749904963795759,
+              "startIndex": 0,
+              "endIndex": 70,
+              "confidence": 0.92,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## B. L'Apprentissage Non-Supervisé (Unsupervised Learning)",
+          "value": "B. L'Apprentissage Non-Supervisé (Unsupervised Learning)",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.689194008431784,
+            "y": 314.33212128429875,
+            "w": 407.3809717690072,
+            "h": 15.165128620426842,
+            "confidence": 0.91,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.689194008431784,
+              "y": 314.33212128429875,
+              "w": 407.3809717690072,
+              "h": 15.165128620426842,
+              "startIndex": 0,
+              "endIndex": 58,
+              "confidence": 0.91,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Ici, les données n'ont **pas d'étiquettes**. Le modèle doit trouver seul une structure ou des points communs.",
+          "value": "Ici, les données n'ont **pas d'étiquettes**. Le modèle doit trouver seul une structure ou des points communs.",
+          "bBox": {
+            "x": 56.15630511028011,
+            "y": 342.760830554497,
+            "w": 498.90775357874423,
+            "h": 31.302359708460322,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.15630511028011,
+              "y": 342.760830554497,
+              "w": 498.90775357874423,
+              "h": 31.302359708460322,
+              "startIndex": 0,
+              "endIndex": 108,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Analogie** : Trier un bac de Lego de couleurs différentes sans instructions.",
+          "value": "*   **Analogie** : Trier un bac de Lego de couleurs différentes sans instructions.",
+          "bBox": {
+            "x": 77.42712336842607,
+            "y": 386.5086485327744,
+            "w": 426.58477402105564,
+            "h": 12.883676638719532,
+            "confidence": 0.93,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.42712336842607,
+              "y": 386.5086485327744,
+              "w": 426.58477402105564,
+              "h": 12.883676638719532,
+              "startIndex": 0,
+              "endIndex": 81,
+              "confidence": 0.93,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Utilisation** : Segmentation client (regrouper les acheteurs par comportement).",
+          "value": "*   **Utilisation** : Segmentation client (regrouper les acheteurs par comportement).",
+          "bBox": {
+            "x": 77.33543415348703,
+            "y": 412.18224609375,
+            "w": 458.3284840058118,
+            "h": 13.131695407774385,
+            "confidence": 0.95,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.33543415348703,
+              "y": 412.18224609375,
+              "w": 458.3284840058118,
+              "h": 13.131695407774385,
+              "startIndex": 0,
+              "endIndex": 84,
+              "confidence": 0.95,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## C. L'Apprentissage par Renforcement (Reinforcement Learning)",
+          "value": "C. L'Apprentissage par Renforcement (Reinforcement Learning)",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.55495367282774,
+            "y": 438.3269331173781,
+            "w": 440.5380522341844,
+            "h": 14.978890529725614,
+            "confidence": 0.92,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.55495367282774,
+              "y": 438.3269331173781,
+              "w": 440.5380522341844,
+              "h": 14.978890529725614,
+              "startIndex": 0,
+              "endIndex": 62,
+              "confidence": 0.92,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "L'algorithme (l'agent) apprend en interagissant avec un environnement. Il reçoit des **récompenses** ou des **pénalités**.",
+          "value": "L'algorithme (l'agent) apprend en interagissant avec un environnement. Il reçoit des **récompenses** ou des **pénalités**.",
+          "bBox": {
+            "x": 56.53441834984756,
+            "y": 466.58381192835367,
+            "w": 470.43673542301826,
+            "h": 31.60303353658538,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.53441834984756,
+              "y": 466.58381192835367,
+              "w": 470.43673542301826,
+              "h": 31.60303353658538,
+              "startIndex": 0,
+              "endIndex": 121,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Analogie** : Dresser un chien avec des friandises.",
+          "value": "*   **Analogie** : Dresser un chien avec des friandises.",
+          "bBox": {
+            "x": 77.48337229658918,
+            "y": 510.36018578506093,
+            "w": 284.5471562380906,
+            "h": 12.344675590701227,
+            "confidence": 0.91,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.48337229658918,
+              "y": 510.36018578506093,
+              "w": 284.5471562380906,
+              "h": 12.344675590701227,
+              "startIndex": 0,
+              "endIndex": 55,
+              "confidence": 0.91,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "*   **Utilisation** : Robotique, jeux vidéo (AlphaGo), voitures autonomes.",
+          "value": "*   **Utilisation** : Robotique, jeux vidéo (AlphaGo), voitures autonomes.",
+          "bBox": {
+            "x": 77.40234249952363,
+            "y": 536.0743888147866,
+            "w": 389.31686172113183,
+            "h": 12.952625762195089,
+            "confidence": 0.93,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.40234249952363,
+              "y": 536.0743888147866,
+              "w": 389.31686172113183,
+              "h": 12.952625762195089,
+              "startIndex": 0,
+              "endIndex": 73,
+              "confidence": 0.93,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "# 4. Le Cycle de Vie d'un Projet ML",
+          "value": "4. Le Cycle de Vie d'un Projet ML",
+          "lvl": 1,
+          "bBox": {
+            "x": 56.074045380383,
+            "y": 563.7074242568598,
+            "w": 286.7527310106231,
+            "h": 19.2005859375,
+            "confidence": 0.94,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.074045380383,
+              "y": 563.7074242568598,
+              "w": 286.7527310106231,
+              "h": 19.2005859375,
+              "startIndex": 0,
+              "endIndex": 34,
+              "confidence": 0.94,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Pour passer d'une idée à un modèle qui fonctionne, on suit généralement ces étapes :",
+          "value": "Pour passer d'une idée à un modèle qui fonctionne, on suit généralement ces étapes :",
+          "bBox": {
+            "x": 56.4702705197218,
+            "y": 596.9174156821646,
+            "w": 482.667925459699,
+            "h": 13.255728372713506,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.4702705197218,
+              "y": 596.9174156821646,
+              "w": 482.667925459699,
+              "h": 13.255728372713506,
+              "startIndex": 0,
+              "endIndex": 83,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "md": "| Étape                | Action                                                   |\n| -------------------- | -------------------------------------------------------- |\n| \\*\\*1. Collecte\\*\\*  | Récupérer des données (bases de données, capteurs, web). |\n| \\*\\*2. Nettoyage\\*\\* | Supprimer les erreurs, les doublons et gérer les données |",
+          "html": "<table>\n  <thead>\n    <tr>\n        <th>Étape</th>\n        <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>**1. Collecte**</td>\n<td>Récupérer des données (bases de données, capteurs, web).</td>\n    </tr>\n<tr>\n        <td>**2. Nettoyage**</td>\n<td>Supprimer les erreurs, les doublons et gérer les données</td>\n    </tr>\n  </tbody>\n</table>",
+          "rows": [
+            [
+              "Étape",
+              "Action"
+            ],
+            [
+              "**1. Collecte**",
+              "Récupérer des données (bases de données, capteurs, web)."
+            ],
+            [
+              "**2. Nettoyage**",
+              "Supprimer les erreurs, les doublons et gérer les données"
+            ]
+          ],
+          "isPerfectTable": true,
+          "csv": "\"Étape\",\"Action\"\n\"**1. Collecte**\",\"Récupérer des données (bases de données, capteurs, web).\"\n\"**2. Nettoyage**\",\"Supprimer les erreurs, les doublons et gérer les données\"",
+          "bBox": {
+            "x": 55.615553752620045,
+            "y": 619.0339081554878,
+            "w": 500.1610642447123,
+            "h": 77.97773294588416,
+            "confidence": 0.99,
+            "label": "table"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 55.615553752620045,
+              "y": 619.0339081554878,
+              "w": 500.1610642447123,
+              "h": 77.97773294588416,
+              "startIndex": 0,
+              "endIndex": 334,
+              "confidence": 0.99,
+              "label": "table"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "2",
+          "value": "2",
+          "bBox": {
+            "x": 302.6743709508384,
+            "y": 723.564599371189,
+            "w": 6.169233755716475,
+            "h": 9.012008860518304,
+            "confidence": 0.92,
+            "label": "footer"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 302.6743709508384,
+              "y": 723.564599371189,
+              "w": 6.169233755716475,
+              "h": 9.012008860518304,
+              "startIndex": 0,
+              "endIndex": 0,
+              "confidence": 0.92,
+              "label": "footer"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "2",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.991,
+      "layout": [
+        {
+          "image": "page_2_table_1_v2.jpg",
+          "confidence": 0.99,
+          "label": "table",
+          "bbox": {
+            "x": 0.091,
+            "y": 0.782,
+            "w": 0.817,
+            "h": 0.098
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_1_v2.jpg",
+          "confidence": 0.96,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.119,
+            "w": 0.769,
+            "h": 0.039
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_2_v2.jpg",
+          "confidence": 0.95,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.211,
+            "w": 0.801,
+            "h": 0.036
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_3_v2.jpg",
+          "confidence": 0.95,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.589,
+            "w": 0.769,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_4_v2.jpg",
+          "confidence": 0.94,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.433,
+            "w": 0.815,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_5_v2.jpg",
+          "confidence": 0.93,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.754,
+            "w": 0.789,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_paragraph_title_1_v2.jpg",
+          "confidence": 0.9,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.077,
+            "w": 0.678,
+            "h": 0.025
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_6_v2.jpg",
+          "confidence": 0.89,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.52,
+            "w": 0.749,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_7_v2.jpg",
+          "confidence": 0.89,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.267,
+            "w": 0.598,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_paragraph_title_2_v2.jpg",
+          "confidence": 0.89,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.712,
+            "w": 0.469,
+            "h": 0.024
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_paragraph_title_3_v2.jpg",
+          "confidence": 0.88,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.175,
+            "w": 0.581,
+            "h": 0.019
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_8_v2.jpg",
+          "confidence": 0.87,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.488,
+            "w": 0.697,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_9_v2.jpg",
+          "confidence": 0.86,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.677,
+            "w": 0.636,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_10_v2.jpg",
+          "confidence": 0.86,
+          "label": "text",
+          "bbox": {
+            "x": 0.185,
+            "y": 0.331,
+            "w": 0.662,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_11_v2.jpg",
+          "confidence": 0.84,
+          "label": "text",
+          "bbox": {
+            "x": 0.185,
+            "y": 0.363,
+            "w": 0.584,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_footer_1_v2.jpg",
+          "confidence": 0.84,
+          "label": "footer",
+          "bbox": {
+            "x": 0.495,
+            "y": 0.914,
+            "w": 0.01,
+            "h": 0.011
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_paragraph_title_4_v2.jpg",
+          "confidence": 0.83,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.553,
+            "w": 0.72,
+            "h": 0.019
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_paragraph_title_5_v2.jpg",
+          "confidence": 0.83,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.397,
+            "w": 0.666,
+            "h": 0.019
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_12_v2.jpg",
+          "confidence": 0.81,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.644,
+            "w": 0.465,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_2_text_13_v2.jpg",
+          "confidence": 0.76,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.298,
+            "w": 0.14,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        }
+      ],
+      "costOptimized": false
+    },
+    {
+      "page": 3,
+      "text": "Étape             Action\n                  manquantes.\n\n3. Feature        Choisir les variables les plus importantes (ex: pour une maison, la\nEngineering       surface est plus importante que la couleur des rideaux).\n\n4. Entraînement   Faire tourner l'algorithme sur les données.\n\n5. Évaluation     Tester le modèle sur des données qu'il n'a jamais vues pour vérifier\n                  sa précision.\n\n6. Déploiement    Mettre le modèle en production pour les utilisateurs.\n\n\n\n5. Les Algorithmes Incontournables à Connaître\n\nSi vous débutez, voici les noms que vous rencontrerez le plus souvent :\n\n1. La Régression Linéaire\n\nUtilisée pour prédire une valeur continue. Elle cherche la \"ligne droite\" qui passe le plus\nprès possible de tous les points de données.\n\n    y = ax + b\n\n2. Les Arbres de Décision\n\nUne série de questions \"Oui/Non\" qui mènent à une conclusion. Très visuel et facile à\ncomprendre.\n\n\n\n\n\n\n\n\n\n\n3",
+      "md": "\n\n| Étape                  | Action                                                                                                                       |\n| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- |\n| EMPTY                  | manquantes.                                                                                                                  |\n| 3. Feature Engineering | Choisir les variables les plus importantes (ex: pour une maison, la surface est plus importante que la couleur des rideaux). |\n| 4. Entraînement        | Faire tourner l'algorithme sur les données.                                                                                  |\n| 5. Évaluation          | Tester le modèle sur des données qu'il n'a jamais vues pour vérifier sa précision.                                           |\n| 6. Déploiement         | Mettre le modèle en production pour les utilisateurs.                                                                        |\n\n\n# 5. Les Algorithmes Incontournables à Connaître\n\nSi vous débutez, voici les noms que vous rencontrerez le plus souvent :\n\n## 1. La Régression Linéaire\n\nUtilisée pour prédire une valeur continue. Elle cherche la \"ligne droite\" qui passe le plus près possible de tous les points de données.\n\n$$ \\boldsymbol{y = ax + b} $$\n\n## 2. Les Arbres de Décision\n\nUne série de questions \"Oui/Non\" qui mènent à une conclusion. Très visuel et facile à comprendre.\n\n3\n",
+      "images": [
+        {
+          "name": "page_3.jpg",
+          "height": 792,
+          "width": 612,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        },
+        {
+          "name": "page_3_table_1_v2.jpg",
+          "height": 199.894,
+          "width": 499.833,
+          "x": 55.93,
+          "y": 55.58,
+          "original_width": 2020,
+          "original_height": 808,
+          "rotation": 0,
+          "type": "layout_v3_table"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "table",
+          "md": "| Étape                  | Action                                                                                                                       |\n| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------- |\n| EMPTY                  | manquantes.                                                                                                                  |\n| 3. Feature Engineering | Choisir les variables les plus importantes (ex: pour une maison, la surface est plus importante que la couleur des rideaux). |\n| 4. Entraînement        | Faire tourner l'algorithme sur les données.                                                                                  |\n| 5. Évaluation          | Tester le modèle sur des données qu'il n'a jamais vues pour vérifier sa précision.                                           |\n| 6. Déploiement         | Mettre le modèle en production pour les utilisateurs.                                                                        |",
+          "html": "<table>\n  <thead>\n    <tr>\n        <th>Étape</th>\n        <th>Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>EMPTY</td>\n<td>manquantes.</td>\n    </tr>\n<tr>\n        <td>3. Feature Engineering</td>\n<td>Choisir les variables les plus importantes (ex: pour une maison, la surface est plus importante que la couleur des rideaux).</td>\n    </tr>\n<tr>\n        <td>4. Entraînement</td>\n<td>Faire tourner l'algorithme sur les données.</td>\n    </tr>\n<tr>\n        <td>5. Évaluation</td>\n<td>Tester le modèle sur des données qu'il n'a jamais vues pour vérifier sa précision.</td>\n    </tr>\n<tr>\n        <td>6. Déploiement</td>\n<td>Mettre le modèle en production pour les utilisateurs.</td>\n    </tr>\n  </tbody>\n</table>",
+          "rows": [
+            [
+              "Étape",
+              "Action"
+            ],
+            [
+              "EMPTY",
+              "manquantes."
+            ],
+            [
+              "3. Feature Engineering",
+              "Choisir les variables les plus importantes (ex: pour une maison, la surface est plus importante que la couleur des rideaux)."
+            ],
+            [
+              "4. Entraînement",
+              "Faire tourner l'algorithme sur les données."
+            ],
+            [
+              "5. Évaluation",
+              "Tester le modèle sur des données qu'il n'a jamais vues pour vérifier sa précision."
+            ],
+            [
+              "6. Déploiement",
+              "Mettre le modèle en production pour les utilisateurs."
+            ]
+          ],
+          "isPerfectTable": true,
+          "csv": "\"Étape\",\"Action\"\n\"EMPTY\",\"manquantes.\"\n\"3. Feature Engineering\",\"Choisir les variables les plus importantes (ex: pour une maison, la surface est plus importante que la couleur des rideaux).\"\n\"4. Entraînement\",\"Faire tourner l'algorithme sur les données.\"\n\"5. Évaluation\",\"Tester le modèle sur des données qu'il n'a jamais vues pour vérifier sa précision.\"\n\"6. Déploiement\",\"Mettre le modèle en production pour les utilisateurs.\"",
+          "bBox": {
+            "x": 55.93003391172827,
+            "y": 55.580138386051836,
+            "w": 499.8332097048875,
+            "h": 199.89452100800307,
+            "confidence": 0.99,
+            "label": "table"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 55.93003391172827,
+              "y": 55.580138386051836,
+              "w": 499.8332097048875,
+              "h": 199.89452100800307,
+              "startIndex": 0,
+              "endIndex": 1076,
+              "confidence": 0.99,
+              "label": "table"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "# 5. Les Algorithmes Incontournables à Connaître",
+          "value": "5. Les Algorithmes Incontournables à Connaître",
+          "lvl": 1,
+          "bBox": {
+            "x": 56.59064905678353,
+            "y": 294.9605537823933,
+            "w": 428.0014288776677,
+            "h": 19.104755144817076,
+            "confidence": 0.97,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.59064905678353,
+              "y": 294.9605537823933,
+              "w": 428.0014288776677,
+              "h": 19.104755144817076,
+              "startIndex": 0,
+              "endIndex": 47,
+              "confidence": 0.97,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Si vous débutez, voici les noms que vous rencontrerez le plus souvent :",
+          "value": "Si vous débutez, voici les noms que vous rencontrerez le plus souvent :",
+          "bBox": {
+            "x": 56.4030068597561,
+            "y": 328.01260361089936,
+            "w": 396.37149223513717,
+            "h": 13.06140220083845,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.4030068597561,
+              "y": 328.01260361089936,
+              "w": 396.37149223513717,
+              "h": 13.06140220083845,
+              "startIndex": 0,
+              "endIndex": 70,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## 1. La Régression Linéaire",
+          "value": "1. La Régression Linéaire",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.78396261075648,
+            "y": 354.15021651105184,
+            "w": 172.52489671660632,
+            "h": 15.22860708841462,
+            "confidence": 0.95,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.78396261075648,
+              "y": 354.15021651105184,
+              "w": 172.52489671660632,
+              "h": 15.22860708841462,
+              "startIndex": 0,
+              "endIndex": 27,
+              "confidence": 0.95,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Utilisée pour prédire une valeur continue. Elle cherche la \"ligne droite\" qui passe le plus près possible de tous les points de données.",
+          "value": "Utilisée pour prédire une valeur continue. Elle cherche la \"ligne droite\" qui passe le plus près possible de tous les points de données.",
+          "bBox": {
+            "x": 56.36481516768293,
+            "y": 382.3214041063262,
+            "w": 491.54431426257617,
+            "h": 31.699642482850614,
+            "confidence": 0.99,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.36481516768293,
+              "y": 382.3214041063262,
+              "w": 491.54431426257617,
+              "h": 31.699642482850614,
+              "startIndex": 0,
+              "endIndex": 135,
+              "confidence": 0.99,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "$$ \\boldsymbol{y = ax + b} $$",
+          "value": "$$ \\boldsymbol{y = ax + b} $$",
+          "bBox": {
+            "x": 277.1607353991997,
+            "y": 426.2869636051829,
+            "w": 54.430650128620414,
+            "h": 13.647021722560993,
+            "confidence": 0.89,
+            "label": "formula"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 277.1607353991997,
+              "y": 426.2869636051829,
+              "w": 54.430650128620414,
+              "h": 13.647021722560993,
+              "startIndex": 0,
+              "endIndex": 28,
+              "confidence": 0.89,
+              "label": "formula"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "## 2. Les Arbres de Décision",
+          "value": "2. Les Arbres de Décision",
+          "lvl": 2,
+          "bBox": {
+            "x": 56.22661627048399,
+            "y": 452.67575504954266,
+            "w": 171.96653909822788,
+            "h": 12.156173780487835,
+            "confidence": 0.96,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.22661627048399,
+              "y": 452.67575504954266,
+              "w": 171.96653909822788,
+              "h": 12.156173780487835,
+              "startIndex": 0,
+              "endIndex": 27,
+              "confidence": 0.96,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Une série de questions \"Oui/Non\" qui mènent à une conclusion. Très visuel et facile à comprendre.",
+          "value": "Une série de questions \"Oui/Non\" qui mènent à une conclusion. Très visuel et facile à comprendre.",
+          "bBox": {
+            "x": 56.345222793206936,
+            "y": 480.61307212271345,
+            "w": 477.2353531404821,
+            "h": 31.809409298780526,
+            "confidence": 0.99,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.345222793206936,
+              "y": 480.61307212271345,
+              "w": 477.2353531404821,
+              "h": 31.809409298780526,
+              "startIndex": 0,
+              "endIndex": 96,
+              "confidence": 0.99,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "3",
+          "value": "3",
+          "bBox": {
+            "x": 302.7007917301829,
+            "y": 723.5046108041158,
+            "w": 5.976125190548768,
+            "h": 9.372553353658594,
+            "confidence": 0.93,
+            "label": "footer"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 302.7007917301829,
+              "y": 723.5046108041158,
+              "w": 5.976125190548768,
+              "h": 9.372553353658594,
+              "startIndex": 0,
+              "endIndex": 0,
+              "confidence": 0.93,
+              "label": "footer"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "3",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.971,
+      "layout": [
+        {
+          "image": "page_3_table_1_v2.jpg",
+          "confidence": 0.99,
+          "label": "table",
+          "bbox": {
+            "x": 0.091,
+            "y": 0.07,
+            "w": 0.817,
+            "h": 0.252
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_text_1_v2.jpg",
+          "confidence": 0.98,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.607,
+            "w": 0.78,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_text_2_v2.jpg",
+          "confidence": 0.98,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.483,
+            "w": 0.803,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_paragraph_title_1_v2.jpg",
+          "confidence": 0.95,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.372,
+            "w": 0.699,
+            "h": 0.024
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_text_3_v2.jpg",
+          "confidence": 0.94,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.414,
+            "w": 0.648,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_paragraph_title_2_v2.jpg",
+          "confidence": 0.93,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.572,
+            "w": 0.281,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_paragraph_title_3_v2.jpg",
+          "confidence": 0.9,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.447,
+            "w": 0.282,
+            "h": 0.019
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_footer_1_v2.jpg",
+          "confidence": 0.86,
+          "label": "footer",
+          "bbox": {
+            "x": 0.495,
+            "y": 0.914,
+            "w": 0.01,
+            "h": 0.012
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_3_formula_1_v2.jpg",
+          "confidence": 0.79,
+          "label": "formula",
+          "bbox": {
+            "x": 0.453,
+            "y": 0.538,
+            "w": 0.089,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        }
+      ],
+      "costOptimized": false
+    },
+    {
+      "page": 4,
+      "text": "\n\n| Root | First Decision: NEAREST | Second Decision: TRAFFIC JAM | Final Action |\n| ---- | ----------------------- | ---------------------------- | ------------ |\n| HOME | NO                      | —                            | AVOID        |\n| HOME | YES                     | YES                          | AVOID        |\n| HOME | YES                     | NO                           | GO SHOPPING  |\n\n\n\n\n\n 3. Les Réseaux de Neurones (Deep Learning)\n\n Inspirés du cerveau humain, ils sont composés de couches de \"neurones\" artificiels.\n C'est la technologie derrière ChatGPT et la reconnaissance faciale.\n\n 6. Les Défis et l'Éthique\n\n Le Machine Learning n'est pas magique. Il rencontre des problèmes majeurs :\n\n  •   Le Biais : Si vos données sont sexistes ou racistes, votre IA le sera aussi.\n\n  •   L'Overfitting (Surapprentissage) : Le modèle apprend par cœur les données\n      d'entraînement mais devient incapable de généraliser à de nouveaux cas.\n\n  •   La Boîte Noire : Certains modèles (comme le Deep Learning) sont si complexes\n      qu'on a du mal à expliquer pourquoi ils ont pris une décision.\n\n\n\n\n\n\n\n 4",
+      "md": "\n\n| Root | First Decision: NEAREST | Second Decision: TRAFFIC JAM | Final Action |\n| ---- | ----------------------- | ---------------------------- | ------------ |\n| HOME | NO                      | —                            | AVOID        |\n| HOME | YES                     | YES                          | AVOID        |\n| HOME | YES                     | NO                           | GO SHOPPING  |\n\n\nDECISION TREE ALGORITHMS\n\n### 3. Les Réseaux de Neurones (Deep Learning)\n\nInspirés du cerveau humain, ils sont composés de couches de \"neurones\" artificiels. C'est la technologie derrière ChatGPT et la reconnaissance faciale.\n\n### 6. Les Défis et l'Éthique\n\nLe Machine Learning n'est pas magique. Il rencontre des problèmes majeurs :\n\n* **Le Biais :** Si vos données sont sexistes ou racistes, votre IA le sera aussi.\n\n* **L'Overfitting (Surapprentissage) :** Le modèle apprend par cœur les données d'entraînement mais devient incapable de généraliser à de nouveaux cas.\n\n* **La Boîte Noire :** Certains modèles (comme le Deep Learning) sont si complexes qu'on a du mal à expliquer *pourquoi* ils ont pris une décision.\n\n4\n",
+      "images": [
+        {
+          "name": "img_p3_1.jpg",
+          "height": 300.5,
+          "width": 451.1,
+          "x": 56.7,
+          "y": 56.65,
+          "original_width": 1822,
+          "original_height": 1214,
+          "rotation": 0
+        },
+        {
+          "name": "page_4.jpg",
+          "height": 792,
+          "width": 612,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        },
+        {
+          "name": "page_4_chart_1_v2.jpg",
+          "height": 301.312,
+          "width": 451.91,
+          "x": 56.107,
+          "y": 55.912,
+          "original_width": 1827,
+          "original_height": 1218,
+          "rotation": 0,
+          "type": "layout_v3_chart"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "table",
+          "md": "| Root | First Decision: NEAREST | Second Decision: TRAFFIC JAM | Final Action |\n| ---- | ----------------------- | ---------------------------- | ------------ |\n| HOME | NO                      | —                            | AVOID        |\n| HOME | YES                     | YES                          | AVOID        |\n| HOME | YES                     | NO                           | GO SHOPPING  |",
+          "html": "<table>\n  <thead>\n    <tr>\n      <th>Root</th>\n      <th>First Decision: NEAREST</th>\n      <th>Second Decision: TRAFFIC JAM</th>\n      <th>Final Action</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>HOME</td>\n<td>NO</td>\n<td>—</td>\n<td>AVOID</td>\n    </tr>\n<tr>\n      <td>HOME</td>\n<td>YES</td>\n<td>YES</td>\n<td>AVOID</td>\n    </tr>\n<tr>\n      <td>HOME</td>\n<td>YES</td>\n<td>NO</td>\n<td>GO SHOPPING</td>\n    </tr>\n  </tbody>\n</table>",
+          "rows": [
+            [
+              "Root",
+              "First Decision: NEAREST",
+              "Second Decision: TRAFFIC JAM",
+              "Final Action"
+            ],
+            [
+              "HOME",
+              "NO",
+              "—",
+              "AVOID"
+            ],
+            [
+              "HOME",
+              "YES",
+              "YES",
+              "AVOID"
+            ],
+            [
+              "HOME",
+              "YES",
+              "NO",
+              "GO SHOPPING"
+            ]
+          ],
+          "isPerfectTable": false,
+          "csv": "\"Root\",\"First Decision: NEAREST\",\"Second Decision: TRAFFIC JAM\",\"Final Action\"\n\"HOME\",\"NO\",\"—\",\"AVOID\"\n\"HOME\",\"YES\",\"YES\",\"AVOID\"\n\"HOME\",\"YES\",\"NO\",\"GO SHOPPING\"",
+          "bBox": {
+            "x": 56,
+            "y": 55,
+            "w": 451,
+            "h": 301,
+            "confidence": 0.99,
+            "label": "chart"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56,
+              "y": 55,
+              "w": 451,
+              "h": 301,
+              "startIndex": 0,
+              "endIndex": 403,
+              "confidence": 0.99,
+              "label": "chart"
+            }
+          ],
+          "parseConcerns": [
+            {
+              "type": "layout_lvm_disagreement",
+              "details": "layout detected [chart, text, paragraph_title, footer] but no table/form"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "DECISION TREE ALGORITHMS",
+          "value": "DECISION TREE ALGORITHMS"
+        },
+        {
+          "type": "heading",
+          "md": "### 3. Les Réseaux de Neurones (Deep Learning)",
+          "value": "3. Les Réseaux de Neurones (Deep Learning)",
+          "lvl": 3,
+          "bBox": {
+            "x": 56.44801784608422,
+            "y": 394.91162252286585,
+            "w": 308.3973987411871,
+            "h": 15.235398246951227,
+            "confidence": 0.97,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.44801784608422,
+              "y": 394.91162252286585,
+              "w": 308.3973987411871,
+              "h": 15.235398246951227,
+              "startIndex": 0,
+              "endIndex": 45,
+              "confidence": 0.97,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Inspirés du cerveau humain, ils sont composés de couches de \"neurones\" artificiels. C'est la technologie derrière ChatGPT et la reconnaissance faciale.",
+          "value": "Inspirés du cerveau humain, ils sont composés de couches de \"neurones\" artificiels. C'est la technologie derrière ChatGPT et la reconnaissance faciale.",
+          "bBox": {
+            "x": 56.163197289443595,
+            "y": 423.16147437118906,
+            "w": 470.2372312071265,
+            "h": 31.65722132240854,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.163197289443595,
+              "y": 423.16147437118906,
+              "w": 470.2372312071265,
+              "h": 31.65722132240854,
+              "startIndex": 0,
+              "endIndex": 150,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "md": "### 6. Les Défis et l'Éthique",
+          "value": "6. Les Défis et l'Éthique",
+          "lvl": 3,
+          "bBox": {
+            "x": 56.58362021841654,
+            "y": 466.32989805640244,
+            "w": 206.74323155845082,
+            "h": 21.76490853658538,
+            "confidence": 0.98,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.58362021841654,
+              "y": 466.32989805640244,
+              "w": 206.74323155845082,
+              "h": 21.76490853658538,
+              "startIndex": 0,
+              "endIndex": 28,
+              "confidence": 0.98,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Le Machine Learning n'est pas magique. Il rencontre des problèmes majeurs :",
+          "value": "Le Machine Learning n'est pas magique. Il rencontre des problèmes majeurs :",
+          "bBox": {
+            "x": 56.7961298351753,
+            "y": 502.15486280487806,
+            "w": 435.59754870903197,
+            "h": 13.145324885670703,
+            "confidence": 0.96,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.7961298351753,
+              "y": 502.15486280487806,
+              "w": 435.59754870903197,
+              "h": 13.145324885670703,
+              "startIndex": 0,
+              "endIndex": 74,
+              "confidence": 0.96,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "* **Le Biais :** Si vos données sont sexistes ou racistes, votre IA le sera aussi.",
+          "value": "* **Le Biais :** Si vos données sont sexistes ou racistes, votre IA le sera aussi.",
+          "bBox": {
+            "x": 77.4860781488186,
+            "y": 527.9493335556402,
+            "w": 417.8345125524009,
+            "h": 11.9998828125,
+            "confidence": 0.97,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.4860781488186,
+              "y": 527.9493335556402,
+              "w": 417.8345125524009,
+              "h": 11.9998828125,
+              "startIndex": 0,
+              "endIndex": 81,
+              "confidence": 0.97,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "* **L'Overfitting (Surapprentissage) :** Le modèle apprend par cœur les données d'entraînement mais devient incapable de généraliser à de nouveaux cas.",
+          "value": "* **L'Overfitting (Surapprentissage) :** Le modèle apprend par cœur les données d'entraînement mais devient incapable de généraliser à de nouveaux cas.",
+          "bBox": {
+            "x": 77.37696944073933,
+            "y": 553.2195174352133,
+            "w": 451.5183823599466,
+            "h": 31.732018387957368,
+            "confidence": 0.99,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.37696944073933,
+              "y": 553.2195174352133,
+              "w": 451.5183823599466,
+              "h": 31.732018387957368,
+              "startIndex": 0,
+              "endIndex": 150,
+              "confidence": 0.99,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "* **La Boîte Noire :** Certains modèles (comme le Deep Learning) sont si complexes qu'on a du mal à expliquer *pourquoi* ils ont pris une décision.",
+          "value": "* **La Boîte Noire :** Certains modèles (comme le Deep Learning) sont si complexes qu'on a du mal à expliquer *pourquoi* ils ont pris une décision.",
+          "bBox": {
+            "x": 77.3465126595846,
+            "y": 597.7391458650915,
+            "w": 461.46796499857084,
+            "h": 31.51795541158538,
+            "confidence": 0.99,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.3465126595846,
+              "y": 597.7391458650915,
+              "w": 461.46796499857084,
+              "h": 31.51795541158538,
+              "startIndex": 0,
+              "endIndex": 146,
+              "confidence": 0.99,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "4",
+          "value": "4",
+          "bBox": {
+            "x": 302.3047715796494,
+            "y": 723.7153253620428,
+            "w": 6.650128382240834,
+            "h": 8.779364519817076,
+            "confidence": 0.94,
+            "label": "footer"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 302.3047715796494,
+              "y": 723.7153253620428,
+              "w": 6.650128382240834,
+              "h": 8.779364519817076,
+              "startIndex": 0,
+              "endIndex": 0,
+              "confidence": 0.94,
+              "label": "footer"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "4",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.983,
+      "layout": [
+        {
+          "image": "page_4_chart_1_v2.jpg",
+          "confidence": 0.99,
+          "label": "chart",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.071,
+            "w": 0.738,
+            "h": 0.38
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_1_v2.jpg",
+          "confidence": 0.98,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.755,
+            "w": 0.754,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_2_v2.jpg",
+          "confidence": 0.98,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.699,
+            "w": 0.738,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_paragraph_title_1_v2.jpg",
+          "confidence": 0.95,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.589,
+            "w": 0.338,
+            "h": 0.027
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_3_v2.jpg",
+          "confidence": 0.94,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.534,
+            "w": 0.768,
+            "h": 0.04
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_4_v2.jpg",
+          "confidence": 0.94,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.667,
+            "w": 0.683,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_paragraph_title_2_v2.jpg",
+          "confidence": 0.93,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.499,
+            "w": 0.504,
+            "h": 0.019
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_5_v2.jpg",
+          "confidence": 0.93,
+          "label": "text",
+          "bbox": {
+            "x": 0.093,
+            "y": 0.634,
+            "w": 0.712,
+            "h": 0.017
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_footer_1_v2.jpg",
+          "confidence": 0.87,
+          "label": "footer",
+          "bbox": {
+            "x": 0.494,
+            "y": 0.914,
+            "w": 0.011,
+            "h": 0.011
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_4_text_6_v2.jpg",
+          "confidence": 0.52,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.558,
+            "w": 0.603,
+            "h": 0.017
+          },
+          "isLikelyNoise": true
+        }
+      ],
+      "costOptimized": false
+    },
+    {
+      "page": 5,
+      "text": "7. Conclusion : Par où commencer ?\n\nLe Machine Learning est un voyage, pas une destination. Pour progresser, il faut :\n\n 1. Apprendre les bases du langage Python.\n\n 2. Maîtriser les bibliothèques Scikit-Learn, Pandas et NumPy.\n\n 3. Pratiquer sur des plateformes comme Kaggle.\n\n\n\n\n\n\n\n\n\n\n5",
+      "md": "# 7. Conclusion : Par où commencer ?\n\nLe Machine Learning est un voyage, pas une destination. Pour progresser, il faut :\n\n1. Apprendre les bases du langage **Python**.\n\n2. Maîtriser les bibliothèques **Scikit-Learn**, **Pandas** et **NumPy**.\n\n3. Pratiquer sur des plateformes comme **Kaggle**.\n\n5\n",
+      "images": [
+        {
+          "name": "page_5.jpg",
+          "height": 792,
+          "width": 612,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "md": "# 7. Conclusion : Par où commencer ?",
+          "value": "7. Conclusion : Par où commencer ?",
+          "lvl": 1,
+          "bBox": {
+            "x": 55.96762430330602,
+            "y": 127.3824445026677,
+            "w": 315.9203330137671,
+            "h": 18.167893602324693,
+            "confidence": 0.84,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 55.96762430330602,
+              "y": 127.3824445026677,
+              "w": 315.9203330137671,
+              "h": 18.167893602324693,
+              "startIndex": 0,
+              "endIndex": 35,
+              "confidence": 0.84,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Le Machine Learning est un voyage, pas une destination. Pour progresser, il faut :",
+          "value": "Le Machine Learning est un voyage, pas une destination. Pour progresser, il faut :",
+          "bBox": {
+            "x": 56.26143703553735,
+            "y": 161.79389326886434,
+            "w": 457.0496271794016,
+            "h": 12.37054330221035,
+            "confidence": 0.88,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 56.26143703553735,
+              "y": 161.79389326886434,
+              "w": 457.0496271794016,
+              "h": 12.37054330221035,
+              "startIndex": 0,
+              "endIndex": 81,
+              "confidence": 0.88,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "1. Apprendre les bases du langage **Python**.",
+          "value": "1. Apprendre les bases du langage **Python**.",
+          "bBox": {
+            "x": 77.96042224418827,
+            "y": 187.2134944264482,
+            "w": 244.27250458508001,
+            "h": 12.256201886432924,
+            "confidence": 0.89,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.96042224418827,
+              "y": 187.2134944264482,
+              "w": 244.27250458508001,
+              "h": 12.256201886432924,
+              "startIndex": 0,
+              "endIndex": 44,
+              "confidence": 0.89,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "2. Maîtriser les bibliothèques **Scikit-Learn**, **Pandas** et **NumPy**.",
+          "value": "2. Maîtriser les bibliothèques **Scikit-Learn**, **Pandas** et **NumPy**.",
+          "bBox": {
+            "x": 77.41492425685975,
+            "y": 213.0898127858232,
+            "w": 351.7780635480183,
+            "h": 12.291077315167662,
+            "confidence": 0.89,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.41492425685975,
+              "y": 213.0898127858232,
+              "w": 351.7780635480183,
+              "h": 12.291077315167662,
+              "startIndex": 0,
+              "endIndex": 72,
+              "confidence": 0.89,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "3. Pratiquer sur des plateformes comme **Kaggle**.",
+          "value": "3. Pratiquer sur des plateformes comme **Kaggle**.",
+          "bBox": {
+            "x": 77.42912770341081,
+            "y": 238.57403606135674,
+            "w": 276.10954369521727,
+            "h": 12.487384241615848,
+            "confidence": 0.89,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 77.42912770341081,
+              "y": 238.57403606135674,
+              "w": 276.10954369521727,
+              "h": 12.487384241615848,
+              "startIndex": 0,
+              "endIndex": 49,
+              "confidence": 0.89,
+              "label": "text"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "5",
+          "value": "5",
+          "bBox": {
+            "x": 302.4581032059832,
+            "y": 720.8854873285061,
+            "w": 6.292245260099104,
+            "h": 11.913578506097544,
+            "confidence": 0.83,
+            "label": "footer"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 302.4581032059832,
+              "y": 720.8854873285061,
+              "w": 6.292245260099104,
+              "h": 11.913578506097544,
+              "startIndex": 0,
+              "endIndex": 0,
+              "confidence": 0.83,
+              "label": "footer"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "5",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.955,
+      "layout": [
+        {
+          "image": "page_5_text_1_v2.jpg",
+          "confidence": 0.78,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.301,
+            "w": 0.451,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_5_text_2_v2.jpg",
+          "confidence": 0.78,
+          "label": "text",
+          "bbox": {
+            "x": 0.127,
+            "y": 0.236,
+            "w": 0.399,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_5_text_3_v2.jpg",
+          "confidence": 0.77,
+          "label": "text",
+          "bbox": {
+            "x": 0.126,
+            "y": 0.269,
+            "w": 0.575,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_5_text_4_v2.jpg",
+          "confidence": 0.76,
+          "label": "text",
+          "bbox": {
+            "x": 0.092,
+            "y": 0.204,
+            "w": 0.747,
+            "h": 0.016
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_5_paragraph_title_1_v2.jpg",
+          "confidence": 0.69,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.091,
+            "y": 0.161,
+            "w": 0.516,
+            "h": 0.023
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_5_footer_1_v2.jpg",
+          "confidence": 0.66,
+          "label": "footer",
+          "bbox": {
+            "x": 0.494,
+            "y": 0.91,
+            "w": 0.01,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        }
+      ],
+      "costOptimized": false
+    }
+  ],
+  "job_metadata": {
+    "credits_used": 0,
+    "job_credits_usage": 0,
+    "job_pages": 0,
+    "job_auto_mode_triggered_pages": 0,
+    "job_is_cache_hit": true
+  }
+}

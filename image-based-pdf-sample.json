@@ -1,0 +1,218 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "This is an example of an “Image-based PDF\" (also known as image-only PDFs).\n\nImage-based PDFs are typically created through scanning paper in a copier, taking photographs\nor taking screenshots. To a computer, they are images. Though we humans can see text in the\nimage, the file only consists of the image layer but not the searchable text layer that True PDFs\ncontain. As a result, we cannot use a computer to search the text we see in the image as that text\nlayer is missing. There are times when discovery is produced, it will be in an image-based PDF\nformat. When you come across image-based PDFs, ask the U.S. Attorney’s Office in what\nformat was that file originally. Second, ask if they have it in a searchable format and specifically\nif they have it in a digitally created, True, Text-based PDF format. They may not, as they often\nreceive PDFs from other sources before they provide them to you, but you will want to know\nwhat is the format in which they have it in, and what is the original format of the file (as far as\nthey know).",
+      "md": "![Adobe Acrobat logo](page_1_image_1_v2.jpg)\n\n**This is an example of an “Image-based PDF” (also known as image-only PDFs).**\n\nImage-based PDFs are typically created through scanning paper in a copier, taking photographs or taking screenshots. To a computer, they are images. Though we humans can see text in the image, the file only consists of the image layer but not the searchable text layer that True PDFs contain. As a result, we cannot use a computer to search the text we see in the image as that text layer is missing. There are times when discovery is produced, it will be in an image-based PDF format. When you come across image-based PDFs, ask the U.S. Attorney’s Office in what format was that file originally. Second, ask if they have it in a searchable format and specifically if they have it in a digitally created, True, Text-based PDF format. They may not, as they often receive PDFs from other sources before they provide them to you, but you will want to know what is the format in which they have it in, and what is the original format of the file (as far as they know).",
+      "images": [
+        {
+          "name": "img_p0_1.jpg",
+          "height": 792,
+          "width": 612.16,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "ocr": [
+            {
+              "x": 279,
+              "y": 1593,
+              "w": 249,
+              "h": 57,
+              "confidence": 0.999,
+              "text": "they know)."
+            },
+            {
+              "x": 286,
+              "y": 1537,
+              "w": 1831,
+              "h": 46,
+              "confidence": 0.994,
+              "text": "what is the format in which they have it in, and what is the original format of the file (as far as"
+            },
+            {
+              "x": 286,
+              "y": 1237,
+              "w": 1851,
+              "h": 46,
+              "confidence": 0.995,
+              "text": "layer is missing. There are times when discovery is produced, it will be in an image-based PDF"
+            },
+            {
+              "x": 286,
+              "y": 1057,
+              "w": 1814,
+              "h": 46,
+              "confidence": 0.993,
+              "text": "or taking screenshots. To a computer, they are images. Though we humans can see text in the"
+            }
+          ]
+        },
+        {
+          "name": "page_1.jpg",
+          "height": 792,
+          "width": 612.16,
+          "x": 0,
+          "y": 0,
+          "original_width": 2473,
+          "original_height": 3200,
+          "rotation": 0,
+          "type": "full_page_screenshot"
+        },
+        {
+          "name": "page_1_image_1_v2.jpg",
+          "height": 94.438,
+          "width": 96,
+          "x": 257.484,
+          "y": 75.825,
+          "original_width": 388,
+          "original_height": 382,
+          "rotation": 0,
+          "type": "layout_v3_image"
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "image",
+          "md": "![Adobe Acrobat logo](page_1_image_1_v2.jpg)",
+          "bBox": {
+            "x": 257.48420462080793,
+            "y": 75.82587890625,
+            "w": 96.00035822217986,
+            "h": 94.43871129477895,
+            "confidence": 0.99,
+            "label": "image"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 257.48420462080793,
+              "y": 75.82587890625,
+              "w": 96.00035822217986,
+              "h": 94.43871129477895,
+              "startIndex": 0,
+              "endIndex": 43,
+              "confidence": 0.99,
+              "label": "image"
+            }
+          ],
+          "url": "page_1_image_1_v2.jpg",
+          "alt": "Adobe Acrobat logo"
+        },
+        {
+          "type": "text",
+          "md": "**This is an example of an “Image-based PDF” (also known as image-only PDFs).**",
+          "value": "**This is an example of an “Image-based PDF” (also known as image-only PDFs).**",
+          "bBox": {
+            "x": 71.17542866806403,
+            "y": 219.40853777629573,
+            "w": 407.3256890339177,
+            "h": 11.925392292301842,
+            "confidence": 0.89,
+            "label": "paragraph_title"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 71.17542866806403,
+              "y": 219.40853777629573,
+              "w": 407.3256890339177,
+              "h": 11.925392292301842,
+              "startIndex": 0,
+              "endIndex": 78,
+              "confidence": 0.89,
+              "label": "paragraph_title"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "md": "Image-based PDFs are typically created through scanning paper in a copier, taking photographs or taking screenshots. To a computer, they are images. Though we humans can see text in the image, the file only consists of the image layer but not the searchable text layer that True PDFs contain. As a result, we cannot use a computer to search the text we see in the image as that text layer is missing. There are times when discovery is produced, it will be in an image-based PDF format. When you come across image-based PDFs, ask the U.S. Attorney’s Office in what format was that file originally. Second, ask if they have it in a searchable format and specifically if they have it in a digitally created, True, Text-based PDF format. They may not, as they often receive PDFs from other sources before they provide them to you, but you will want to know what is the format in which they have it in, and what is the original format of the file (as far as they know).",
+          "value": "Image-based PDFs are typically created through scanning paper in a copier, taking photographs or taking screenshots. To a computer, they are images. Though we humans can see text in the image, the file only consists of the image layer but not the searchable text layer that True PDFs contain. As a result, we cannot use a computer to search the text we see in the image as that text layer is missing. There are times when discovery is produced, it will be in an image-based PDF format. When you come across image-based PDFs, ask the U.S. Attorney’s Office in what format was that file originally. Second, ask if they have it in a searchable format and specifically if they have it in a digitally created, True, Text-based PDF format. They may not, as they often receive PDFs from other sources before they provide them to you, but you will want to know what is the format in which they have it in, and what is the original format of the file (as far as they know).",
+          "bBox": {
+            "x": 70.88465576648245,
+            "y": 247.13686166158539,
+            "w": 465.58790749571267,
+            "h": 160.941025152439,
+            "confidence": 0.99,
+            "label": "text"
+          },
+          "layoutAwareBbox": [
+            {
+              "x": 70.88465576648245,
+              "y": 247.13686166158539,
+              "w": 465.58790749571267,
+              "h": 160.941025152439,
+              "startIndex": 0,
+              "endIndex": 963,
+              "confidence": 0.99,
+              "label": "text"
+            }
+          ]
+        }
+      ],
+      "status": "OK",
+      "originalOrientationAngle": 0,
+      "links": [],
+      "width": 612.16,
+      "height": 792,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false,
+      "pageHeaderMarkdown": "",
+      "pageFooterMarkdown": "",
+      "printedPageNumber": "",
+      "slideSpeakerNotes": null,
+      "slideSectionName": null,
+      "confidence": 0.961,
+      "layout": [
+        {
+          "image": "page_1_text_1_v2.jpg",
+          "confidence": 0.99,
+          "label": "text",
+          "bbox": {
+            "x": 0.116,
+            "y": 0.312,
+            "w": 0.761,
+            "h": 0.203
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_image_1_v2.jpg",
+          "confidence": 0.98,
+          "label": "image",
+          "bbox": {
+            "x": 0.421,
+            "y": 0.096,
+            "w": 0.157,
+            "h": 0.119
+          },
+          "isLikelyNoise": false
+        },
+        {
+          "image": "page_1_paragraph_title_1_v2.jpg",
+          "confidence": 0.79,
+          "label": "paragraph_title",
+          "bbox": {
+            "x": 0.116,
+            "y": 0.277,
+            "w": 0.665,
+            "h": 0.015
+          },
+          "isLikelyNoise": false
+        }
+      ],
+      "costOptimized": false
+    }
+  ],
+  "job_metadata": {
+    "credits_used": 0,
+    "job_credits_usage": 0,
+    "job_pages": 1,
+    "job_auto_mode_triggered_pages": 0,
+    "job_is_cache_hit": false
+  }
+}
